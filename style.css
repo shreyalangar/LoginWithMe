@@ -65,10 +65,6 @@ h1{
 color: white;
 }
 
-.center, .content, .content1, .top , .btn {
-  margin: auto;
-}
-
 .content1{
   border-radius: 5px;
   outline: none;
@@ -105,7 +101,6 @@ color: white;
   .form-container {
     font-size: 70%;
     width: auto;
-    transform: translate(-50%, -50%);
   }
   .content input {
     margin: 0em 0em;
