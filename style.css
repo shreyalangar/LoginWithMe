@@ -30,9 +30,7 @@ body {
 .top{
   color: white;
   text-align: center;
-  font-size: large;
-  transform: translate(-50%, -50%);
- 
+  font-size: large; 
 }
 
 .btn{
@@ -45,7 +43,6 @@ body {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  transform: translate(-50%, -50%);
 }
 
 .btn:hover{
@@ -78,9 +75,8 @@ color: white;
   border: 1px solid white;
   height: 20px;
   width: 300px;
-  transform: translate(-50%, -50%);
-
 }
+
 .submit input {
   margin-top: 2.5em;
   margin-bottom: 5%;
@@ -137,9 +133,6 @@ color: white;
     width: auto;
     font-size: 70%;
     text-align: right;
-  }
-  .center{
-    margin: auto;
   }
 
  }
