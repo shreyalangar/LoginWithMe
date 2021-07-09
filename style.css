@@ -98,13 +98,13 @@ color: white;
   color: white;
 } 
 
-@media only screen and (max-width: 900px), and (max-height: 700px) {
+@media only screen and (max-width: 900px) {
   .form-container {
     font-size: 70%;
     width: auto;
   }
   .content input {
-    margin: 1em 0em;
+    margin: 0em 0em;
     width: auto;
   }
   .content input:focus {
@@ -127,6 +127,6 @@ color: white;
   }
   .container{
     width: auto;
-    font-size: 50%;
+    font-size: 70%;
   }
  }
